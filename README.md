@@ -17,3 +17,12 @@ University of Engineering and Management, Kolkata - CGPA: 7.21.
 
 📫 Let's Connect:
 Email: soumyamanna729@gmail.com
+
+💻 Skills:
+
+- **Programming Languages:** C++, JavaScript, Python, Java  
+- **Frontend:** React, HTML, CSS, Bootstrap  
+- **Backend:** Node.js, Express.js, REST APIs  
+- **Databases:** MySQL, MongoDB  
+- **Tools & Platforms:** Git, GitHub, Docker, AWS  
+- **Others:** Agile methodologies, Problem Solving, Unit Testing
