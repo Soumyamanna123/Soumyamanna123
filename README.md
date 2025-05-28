@@ -1,4 +1,4 @@
-
+85  
 <!---
 Soumyamanna123/Soumyamanna123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -20,7 +20,7 @@ I'm a passionate Software Engineer from Kolkata, India, with a strong foundation
 
  💻 Coding Platforms
 
-- **LeetCode:** [https://leetcode.com/u/soumyamanna729/]  
+- **LeetCode:** https://leetcode.com/u/soumyamanna729/  
 
 📫 Let's Connect
 - Email: [soumyamanna729@gmail.com]
