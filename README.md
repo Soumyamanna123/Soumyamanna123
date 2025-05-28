@@ -20,7 +20,7 @@ I'm a passionate Software Engineer from Kolkata, India, with a strong foundation
 
  💻 Coding Platforms
 
-- **LeetCode:** [leetcode.com/soumyamanna729]([https://leetcode.com/soumyamanna729](https://leetcode.com/u/soumyamanna729/))  
+- **LeetCode:** [https://leetcode.com/u/soumyamanna729/]  
 
 📫 Let's Connect
 - Email: [soumyamanna729@gmail.com]
