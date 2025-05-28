@@ -14,7 +14,7 @@ I'm a passionate Software Engineer from Kolkata, India, with a strong foundation
 - Web Development Intern at DataSpace Security (Aug 2023 – Dec 2023)
 
 🎓 Education
-- Bachelor of Engineering in Computer Science  
+- Bachelor of Technology in Computer Science & Engineering  
   University of Engineering and Management, Kolkata  
   Percentage: 75
 
