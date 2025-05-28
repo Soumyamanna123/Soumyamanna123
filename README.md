@@ -16,7 +16,7 @@ I'm a passionate Software Engineer from Kolkata, India, with a strong foundation
 🎓 Education
 - Bachelor of Engineering in Computer Science  
   University of Engineering and Management, Kolkata  
-  CGPA: 7.21
+  Percentage: 75
 
 📫 Let's Connect
 - Email: [soumyamanna729@gmail.com]
