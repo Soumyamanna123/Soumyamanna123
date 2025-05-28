@@ -23,8 +23,8 @@ I'm a passionate Software Engineer from Kolkata, India, with a strong foundation
 - **LeetCode:** https://leetcode.com/u/soumyamanna729/  
 
 📫 Let's Connect
-- Email: [soumyamanna729@gmail.com]
-- **LinkedIn:** [linkedin.com/in/soumyamanna123](https://www.linkedin.com/in/soumyamanna123)  
+- Email: soumyamanna729@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/soumya-manna-8461411b2/  
 
 
 💻 Skills:
