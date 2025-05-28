@@ -18,6 +18,10 @@ I'm a passionate Software Engineer from Kolkata, India, with a strong foundation
   University of Engineering and Management, Kolkata  
   Percentage: 75
 
+  ## 🧠 Coding Platforms
+
+- **LeetCode:** [leetcode.com/soumyamanna729](https://leetcode.com/soumyamanna729)  
+
 📫 Let's Connect
 - Email: [soumyamanna729@gmail.com]
 - **LinkedIn:** [linkedin.com/in/soumyamanna123](https://www.linkedin.com/in/soumyamanna123)  
